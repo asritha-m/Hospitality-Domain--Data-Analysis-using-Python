@@ -1,4 +1,4 @@
-Hospitality-Data-Analysis-Project-using-Python
+**Hospitality-Data-Analysis-Project-using-Python**
 
 In the fast-paced world of luxury hotels, AtliQ Grands faced revenue challenges that threatened its market share. As an aspiring Data Analyst, I embarked on a journey to transform the fortunes of this prestigious 5-star hotel chain in India.
 
